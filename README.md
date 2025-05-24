@@ -14,7 +14,7 @@ A Foundation Model for Recommender Systems, inspired by modern transformer-based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recsys_gpt.git
+   git clone https://github.com/alinneman/recsys_gpt.git
    cd recsys_gpt
    ```
 
@@ -45,7 +45,7 @@ poetry run ruff check .
 
 # Run Black formatter
 poetry run black .
-
+```
 
 ## 🚀 End-to-End Demo
 
