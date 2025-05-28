@@ -1,6 +1,6 @@
 # RecSys GPT
 
-A Foundation Model for Recommender Systems, inspired by modern transformer-based architectures.
+A Foundation Model for Recommender Systems, inspired by modern transformer-based architectures and [Netflix's new Foundation Model](https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39).
 
 ## 🚀 Features
 
